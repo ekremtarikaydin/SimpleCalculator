@@ -109,7 +109,6 @@ public class C01_Operations {
                     }else {
                     System.out.println("Please enter a number. Other characters are not compatible.");
                     scanner = new Scanner(System.in);
-
             }
         }
     }
